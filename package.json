@@ -1,0 +1,22 @@
+{
+  "name": "projet-3-oh-my-food",
+  "version": "1.0.0",
+  "description": "Mon projet openclassrooms numero 3 oh myfood",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAMAOUTALIBE/Ohmyfood.git"
+  },
+  "author": "Mamadou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAMAOUTALIBE/Ohmyfood/issues"
+  },
+  "homepage": "https://github.com/MAMAOUTALIBE/Ohmyfood#readme",
+  "dependencies": {
+    "sass": "^1.56.0"
+  }
+}
